@@ -1,0 +1,53 @@
+body {
+        background-size: 100% 100%;
+		background-attachment: fixed; 
+font-family: Times New Roman, Trebuchet MS, Arial ;
+font-size: 16px;
+}
+            a:link    {color:#009933; text-decoration:none}
+            a:visited {color:#009933; text-decoration:none}
+            a:hover   {color:red; text-decoration:underline}
+            a:active  {color:yellow; text-decoration:underline}
+#container {
+background: #FFFFFF;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+}
+#header {
+background: #838283;
+height: 200px;
+width: 900px;
+}
+#clear {
+clear:both;
+}
+#navigation {
+background: #ccff44;
+width: 900px;
+height: 40px;
+}
+#clear {
+clear:both;
+}
+#menu {
+background: #ccff44;
+margin: 17px auto; 
+float: left;
+width: 200px;
+height: 1060px;
+}
+#content {
+background: #ffff99;
+float: right;
+width: 700px;
+height: 1060px;
+}
+#clear {
+clear:both;
+}
+#footer {
+background: #ccff44;
+height: 220px;
+width: 900px;
+}
